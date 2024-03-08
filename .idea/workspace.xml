@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfc7c200-10dc-443c-96e0-ba5638b65f1c" name="Changes" comment="Fibonacci concluido">
-      <change afterPath="$PROJECT_DIR$/questao1.py" afterDir="false" />
+    <list default="true" id="cfc7c200-10dc-443c-96e0-ba5638b65f1c" name="Changes" comment="Questão 1 concluído">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/questao2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +41,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.questao1">
+  <component name="RunManager" selected="Python.questao5">
     <configuration name="questao1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estagio_TARGET" />
       <option name="ENV_FILES" value="" />
@@ -88,8 +86,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="questao5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="estagio_TARGET" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/questao5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.questao5" />
         <item itemvalue="Python.questao1" />
         <item itemvalue="Python.questao2" />
       </list>
@@ -119,11 +140,20 @@
       <option name="project" value="LOCAL" />
       <updated>1709901044603</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Questão 1 concluído">
+      <option name="closed" value="true" />
+      <created>1709903229716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709903229716</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fibonacci concluido" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci concluido" />
+    <MESSAGE value="Questão 1 concluído" />
+    <option name="LAST_COMMIT_MESSAGE" value="Questão 1 concluído" />
   </component>
 </project>
