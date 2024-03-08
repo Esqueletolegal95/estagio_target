@@ -8,8 +8,9 @@ def fibonacci(num):
     else:
         return False
 
+
 numero = int(input("digite um numero"))
-if fibonacci(numero) == True:
+if fibonacci(numero):
     print(str(numero) + " pertence a sequencia")
 else:
     print(str(numero) + " nao pertence a sequencia")
